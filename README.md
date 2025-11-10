@@ -7,6 +7,6 @@ Equation with values filled in:
 
 estimated values: 
 
-M: 0.022099
-X: X: 53.548
-Theta: 0.484353 radian / 27.751 degree.
+* M: 0.022099
+* X: 53.548
+* Theta: 0.484353 radian / 27.751 degree.
