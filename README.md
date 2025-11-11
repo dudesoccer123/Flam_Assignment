@@ -1,5 +1,9 @@
 # Flam_Assignment
 
+## Note on Documentation
+
+The Jupyter notebook (`assignment.ipynb`) contains all code and analysis. However, **The images of handwritten equations that I have included in the notebook may not render properly when viewing the .ipynb file on GitHub**. Please refer to the PDF file for the complete report with all images explanations included.
+
 
 Equation with values filled in: 
 
